@@ -35,6 +35,24 @@
       "password": "abc@123",
       "email": "sam@test.com",
       "id": 6
+    },
+    {
+      "name": "alma ",
+      "password": "abc@123",
+      "email": "alma@test.com",
+      "id": 7
+    },
+    {
+      "name": "aman",
+      "password": "abc@123",
+      "email": "aman@test.com",
+      "id": 8
+    },
+    {
+      "name": "rahul",
+      "password": "abc@123",
+      "email": "rahul@test.com",
+      "id": 9
     }
   ]
 }
